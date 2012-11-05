@@ -1,0 +1,22 @@
+/* Effra */
+@font-face {
+    font-family: 'EffraRegular';
+    src: url('../fonts/effra/effra-regular-webfont.eot');
+    src: url('../fonts/effra/effra-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/effra/effra-regular-webfont.woff') format('woff'),
+         url('../fonts/effra/effra-regular-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'EffraLightRegular';
+    src: url('../fonts/effra/effralight-regular-webfont.eot');
+    src: url('../fonts/effra/effralight-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/effra/effralight-regular-webfont.woff') format('woff'),
+         url('../fonts/effra/effralight-regular-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
